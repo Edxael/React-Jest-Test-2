@@ -18,6 +18,7 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "jest-cli": "^20.0.4",
     "react-scripts": "^1.1.0",
-    "react-test-renderer": "^16.2.0"
+    "react-test-renderer": "^16.2.0",
+    "sinon": "^5.0.7"
   }
 }
